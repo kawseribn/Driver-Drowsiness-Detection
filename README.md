@@ -6,7 +6,7 @@
 Clone this project:
 
 ```
-git clone https://github.com/antoinelame/GazeTracking.git
+git clone https://github.com/kawseribn/Driver-Drowsiness-Detection.git
 ```
 
 Install these dependencies (NumPy, OpenCV, Dlib):
