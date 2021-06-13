@@ -6,7 +6,7 @@
 Clone this project:
 
 ```
-git clone https://github.com/antoinelame/GazeTracking.git
+git clone https://github.com/kawseribn/Driver-Drowsiness-Detection.git
 ```
 
 Install these dependencies (NumPy, OpenCV, Dlib):
@@ -143,6 +143,4 @@ Your suggestions, bugs reports and pull requests are welcome and appreciated. Yo
 
 If the detection of your pupils is not completely optimal, you can send me a video sample of you looking in different directions. I would use it to improve the algorithm.
 
-## Licensing
 
-This project is released by Antoine Lamé under the terms of the MIT Open Source License. View LICENSE for more information.
